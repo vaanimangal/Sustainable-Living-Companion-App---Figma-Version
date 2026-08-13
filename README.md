@@ -2,7 +2,7 @@
 
 # 🌳 Sustainable Living Companion
 ### *Grow Green. Live Better. One Habit at a Time.*
-https://www.figma.com/design/CoznKHr4f6GxRbOGsA4whZ/Sustainable-Living-App-Phase-1?node-id=0-1&t=Q7wqiWXB6by7tnLf-0
+
 <img src="https://img.shields.io/badge/Platform-Mobile_App-4CAF50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design-Figma-2E7D32?style=for-the-badge" />
 <img src="https://img.shields.io/badge/UI%2FUX-Case_Study-66BB6A?style=for-the-badge" />
@@ -103,6 +103,8 @@ The interface embraces:
 
 ### 👉 **[View Full Prototype Here](https://www.figma.com/proto/geGFeuKV1tIJNUAovnG7QU/Sustainable-Living-Companion-App---UX-Research?node-id=182-256&t=RDLIkffFLGvHNRj8-1)**
 
+### View Phase 1 
+(https://www.figma.com/design/CoznKHr4f6GxRbOGsA4whZ/Sustainable-Living-App-Phase-1?node-id=0-1&t=Q7wqiWXB6by7tnLf-0 )
 </div>
 
 ---
